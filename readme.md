@@ -6,7 +6,5 @@
 <hr>
 <h2> improvements </h2>
 <br>
-problems i can find are that it looks ugly with the fizz buzz
-it shall replace the numbers not say fizz or buzz inside it.
-so step one in imprving would be make it replace the number if its a fizz, buzz or fizzbuzz
-
+<p> the code looks clean but can have some improvements but for now i cant see them
+might look back later.
